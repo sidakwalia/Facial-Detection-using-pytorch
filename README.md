@@ -8,6 +8,8 @@ Facial Recognition using pytorch
 *Improved the accuracy of a Computer Vision model by 1.8 percent using the Swish Activation Function.
 MY RESULTS
 I have applied the model on my face
+
+
 ![face_4018](https://user-images.githubusercontent.com/38668655/93015733-c2f7c880-f5f6-11ea-8be2-c36c0286205d.jpeg)
 
 

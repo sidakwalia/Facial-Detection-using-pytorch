@@ -6,7 +6,7 @@ Facial Recognition using pytorch
 *Later the model was trained on Faster-Rcnn which is the best model for face detection.
 *Implementation of Face-Detection using Detectron2 with Faster-RCNN  and data cleaning of the Face-Detection Dataset.Data Processing of the Kaggle Dataset containing only the URLs and annotations of the Face Images.
 *Improved the accuracy of a Computer Vision model by 1.8 percent using the Swish Activation Function.
-RESULTS>>>>>>>>>>>>>>
+RESULTS
 
 
 

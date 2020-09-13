@@ -9,6 +9,10 @@ Facial Recognition using pytorch
 RESULTS
 
 
+![face_408](https://user-images.githubusercontent.com/38668655/93015345-ad34d400-f5f3-11ea-9178-796a17c860fa.jpeg)
+
+
+
 
 
 
